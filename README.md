@@ -146,7 +146,7 @@
 ## Further heat treatment of the final product is typically carried out only if there is a specific need or desired outcome. The decision to perform additional heat treatment depends on factors such as the material composition, desired properties, and the intended application of the product. If further heat treatment is required, it would involve subjecting the final product to a controlled heating process using specialized equipment or methods. This subsequent heat treatment may aim to refine or adjust the material's properties, improve structural integrity, relieve residual stresses, or achieve specific metallurgical transformations. The specific temperature, duration, and conditions of the further heat treatment would be determined based on the desired outcome and the material being treated.
 
 ## Output:
-# Name: A.JEEVITH
-# Register Number: 23014282
+# Name: Dharanish MS
+# Register Number: 23011819
 # Result:
 ## Thus the simulation on the Postprocessing in additive manufacturing is completed.
